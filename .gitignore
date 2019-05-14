@@ -1,3 +1,9 @@
+# Project specific
+data-wrangling-template.ipynb
+tweet-json copy
+tweet-json.zip
+tweety_auth.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
