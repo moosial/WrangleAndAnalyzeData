@@ -124,3 +124,4 @@ dmypy.json
 tweet_json copy.txt
 .DS_Store
 *.png
+*.docx
