@@ -123,3 +123,4 @@ dmypy.json
 .pyre/
 tweet_json copy.txt
 .DS_Store
+*.png
