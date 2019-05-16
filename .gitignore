@@ -1,8 +1,11 @@
 # Project specific
 data-wrangling-template.ipynb
-tweet-json copy
+tweet-json copy.txt
 tweet-json.zip
 tweety_auth.csv
+*.xlsx
+*.doc
+twitter_master.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -118,3 +121,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+tweet_json copy.txt
+.DS_Store
